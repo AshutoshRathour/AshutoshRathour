@@ -155,7 +155,9 @@ An LSTM-based machine learning project that explores stock price prediction usin
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshutoshRathour&bg_color=020617&color=CBD5E1&line=38BDF8&point=A78BFA&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" alt="GitHub contribution graph"/>
+<a href="https://github.com/AshutoshRathour">
+  <img width="100%" src="https://ghchart.rshah.org/38BDF8/AshutoshRathour" alt="Ashutosh's GitHub contribution graph"/>
+</a>
 
 </div>
 
